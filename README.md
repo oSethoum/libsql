@@ -1,4 +1,4 @@
-# GORM Sqlite Driver
+# WIP GORM Libsql Driver
 
 ![CI](https://github.com/go-gorm/sqlite/workflows/CI/badge.svg)
 
